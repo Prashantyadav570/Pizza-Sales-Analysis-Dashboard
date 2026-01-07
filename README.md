@@ -7,6 +7,7 @@ This project delivers an end-to-end sales analytics solution for a pizza busines
 The analysis leverages SQL for data querying, DAX for advanced calculations, and Power BI for interactive visualization.
 
 🧰 Tech Stack
+
 Excel – Data cleaning and preprocessing
 MySQL – Data insertion, storage, and analytical queries
 Power BI – Interactive dashboard development
