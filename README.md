@@ -21,6 +21,10 @@ DAX – KPIs, calculated measures, and business metrics
 📁 Dashboard Structure
 🏠 Home Dashboard
 
+## Live Dashboard
+🔗 [https://app.powerbi.com/view?r=xxxxxxxx](https://app.powerbi.com/groups/me/reports/c9522998-cff3-417e-af7d-520c404382e9/91d92698a9195bce7099?experience=power-bi)
+
+
 Provides a consolidated view of business performance, including:
 
 Total Revenue
