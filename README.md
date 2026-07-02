@@ -1,8 +1,6 @@
 # Pizza-Sales-Analysis-Dashboard
-This project focuses on analyzing pizza sales data to uncover business insights using Excel, MySQL, and Power BI. The goal is to identify sales trends, top-performing pizzas, and worst-performing items through interactive dashboards. 
 
 🍕 Pizza Sales Analysis Dashboard
-📊 Project Summary
 
 This project delivers an end-to-end sales analytics solution for a pizza business using Excel, MySQL, and Power BI. The dashboard transforms raw transactional data into actionable insights, enabling stakeholders to evaluate overall performance and identify best- and worst-performing products.
 
@@ -19,7 +17,6 @@ Power BI – Interactive dashboard development
 DAX – KPIs, calculated measures, and business metrics
 
 📁 Dashboard Structure
-🏠 Home Dashboard
 
 ## Live Dashboard
 🔗 [https://app.powerbi.com/view?r=xxxxxxxx](https://app.powerbi.com/groups/me/reports/c9522998-cff3-417e-af7d-520c404382e9/91d92698a9195bce7099?experience=power-bi)
