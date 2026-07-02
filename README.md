@@ -24,15 +24,15 @@ DAX – KPIs, calculated measures, and business metrics
 
 Provides a consolidated view of business performance, including:
 
-Total Revenue
+1) Total Revenue
 
-Total Orders
+2) Total Orders
 
-Total Pizzas Sold
+3) Total Pizzas Sold
 
-Average Order Value (AOV)
+4) Average Order Value (AOV)
 
-Sales trends over time
+5) Sales trends over time
 
 Category-wise and size-wise revenue distribution
 
@@ -42,33 +42,33 @@ Designed for quick executive-level insights.
 
 Focuses on performance extremes to support strategic decision-making:
 
-Top and bottom pizzas by revenue and quantity sold
+Q) Top and bottom pizzas by revenue and quantity sold
 
-Best- and worst-performing categories
+Q) Best- and worst-performing categories
 
 Identification of underperforming products impacting revenue
 
 🔍 Key Analytical Insights
 
-Identified high-performing pizzas driving the majority of revenue
+Q) Identified high-performing pizzas driving the majority of revenue
 
-Highlighted low-performing items for potential removal or promotion
+Q) Highlighted low-performing items for potential removal or promotion
 
-Analyzed sales distribution by pizza size and category
+Q) Analyzed sales distribution by pizza size and category
 
-Revealed temporal sales trends to support demand planning
+Q) Revealed temporal sales trends to support demand planning
 
 🔄 Data Workflow
 
-Raw sales data cleaned and standardized in Excel
+-Raw sales data cleaned and standardized in Excel
 
-Data imported and queried using MySQL
+-Data imported and queried using MySQL
 
-SQL outputs connected to Power BI
+-SQL outputs connected to Power BI
 
-Business metrics and KPIs created using DAX
+-Business metrics and KPIs created using DAX
 
-Interactive dashboards designed for insight-driven analysis
+-Interactive dashboards designed for insight-driven analysis
 
 🚀 Future Enhancements
 
